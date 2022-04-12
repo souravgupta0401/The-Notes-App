@@ -13,8 +13,8 @@ Hosted app at  **--**
 Frontend has been completely made using pure **HTML**, **Javascript** and **CSS**. All the tools functions have been implemented using executeCommand function provided by DOM.
 
 # ScreenShot
-![image](--)
-![image]--)
+
+
 
 
 ## Pending Tasks:
