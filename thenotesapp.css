@@ -1,0 +1,61 @@
+.mainbody{
+	background-image: url(https://www.teahub.io/photos/full/6-60580_desktop-background-sticky-notes.jpg);
+	vertical-align: center;
+	align-content: center;
+	background-size: cover;
+}
+
+#addTxt{
+	border-radius: 10px;
+
+}
+#nothing{
+	text-align: center;
+}
+.mainbody2{
+	background-color: #D3D3D3;
+}
+.container my-3{
+	background-color: grey;
+}
+#Heading{
+	text-align: center;
+}
+#jumbo
+{
+	background-color:  rgb(41, 63, 63);
+	padding: auto;
+	align-content: center;
+	vertical-align: center;
+	margin: auto;
+	margin-top: 100px;
+	height: 500px;
+	width: 450px;
+}
+
+#special
+{
+	background-color:  rgb(41, 63, 63);
+	padding: auto;
+	align-content: center;
+	vertical-align: center;
+	margin: auto;
+	margin-top: 100px;
+	height: 500px;
+	width: 450px;
+}
+
+
+.display-4{
+	text-align: center;
+}
+.card-footer{
+	font-size:medium;
+	font-style: italic;
+	display: block;
+	text-align: right;
+    
+}
+.text_color{
+	color: antiquewhite;
+}
