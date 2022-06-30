@@ -1,5 +1,5 @@
 .mainbody{
-	background-image: url(https://www.teahub.io/photos/full/6-60580_desktop-background-sticky-notes.jpg);
+	background-image: url(https://www.washingtonpost.com/resizer/NcD-eYjEnEEcTDnS1GZelQtAK5c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBDXXTEX7JFCJP4JGBPBCIVLDU.jpg);
 	vertical-align: center;
 	align-content: center;
 	background-size: cover;
@@ -23,7 +23,7 @@
 }
 #jumbo
 {
-	background-color:  rgb(41, 63, 63);
+	background-color:  rgb(255, 204, 255);
 	padding: auto;
 	align-content: center;
 	vertical-align: center;
@@ -35,7 +35,7 @@
 
 #special
 {
-	background-color:  rgb(41, 63, 63);
+	background-color:  rgb(255, 204, 255);
 	padding: auto;
 	align-content: center;
 	vertical-align: center;
@@ -55,7 +55,4 @@
 	display: block;
 	text-align: right;
     
-}
-.text_color{
-	color: antiquewhite;
 }
