@@ -1,4 +1,12 @@
-var firebaseConfig = {
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "https://www.gstatic.com/firebasejs/9.8.4/firebase-app.js";
+import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.8.4/firebase-analytics.js";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
   apiKey: "AIzaSyCZk5-WD7yaFBQmJG1BIEMo7BpQj4Jtwgo",
   authDomain: "notes-app-48859.firebaseapp.com",
   projectId: "notes-app-48859",
@@ -7,9 +15,10 @@ var firebaseConfig = {
   appId: "1:127518958572:web:0ae6a90b804e78e82256c9",
   measurementId: "G-F5F2KB08DQ"
 };
+
 // Initialize Firebase
-firebase.initializeApp(firebaseConfig);
-firebase.analytics();
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
 const dbRef = firebase.database()
 const auth = firebase.auth();
 
