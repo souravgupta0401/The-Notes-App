@@ -1,5 +1,5 @@
 .mainbody{
-	background-image: url(https://www.washingtonpost.com/resizer/NcD-eYjEnEEcTDnS1GZelQtAK5c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBDXXTEX7JFCJP4JGBPBCIVLDU.jpg);
+	background-image: url(felipe-furtado-2zDXqgTzEFE-unsplash.jpg);
 	vertical-align: center;
 	align-content: center;
 	background-size: cover;
@@ -16,14 +16,14 @@
 	background-color: #D3D3D3;
 }
 .container my-3{
-	background-color: grey;
+	background-color: rgb(20, 18, 18);
 }
 #Heading{
 	text-align: center;
 }
 #jumbo
 {
-	background-color:  rgb(255, 204, 255);
+	background-color:  rgb(140, 213, 245);
 	padding: auto;
 	align-content: center;
 	vertical-align: center;
@@ -35,7 +35,7 @@
 
 #special
 {
-	background-color:  rgb(255, 204, 255);
+	background-color:  rgb(140, 213, 245);
 	padding: auto;
 	align-content: center;
 	vertical-align: center;
